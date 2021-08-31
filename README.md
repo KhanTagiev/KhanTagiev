@@ -2,25 +2,32 @@
 
 # **Обо мне:**
 
-- Учусь в Я.Практикуме. 
-- Стремлюсь писать читабельный код.
-- Меняю сферу деятельности.
-- Люблю фильмы по комиксам DC и Marvel.
+* Мой стаж Frontend разработчика 1 год. Закончил курс [Веб разработчика](https://practicum.yandex.ru/web/) в Я.Практикуме. 
+* Я ответсвен и мотивирован, легко обучаюсь и готов работать Frontend разработчиком прямо сейчас.
+* Я ❤️  програмирование потому что, мне интересно создавать новые интересные и дружелюбные интерфейсы.
+* На данный момент я ищу работу в качестве Frontend разработчика.
+* Я с радостью поделюсь своим опытом и готов учиться у страших коллег.
+* Люблю фильмы по комиксам DC и Marvel.
 
 ## Мой стэк технологий:  
 
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="24"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="24" ></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" height="24"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="24"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" height="24"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="24"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="50"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="50" ></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" height="50"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="50"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="50"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="50"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="50"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose" height="50"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" height="50"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="50"></code>
+
 
 ### Мои контакты: 
 
-- Телефон: +7 (915) 755 87 58
-- Telegram: @Khan_Tagiev
-- Почта: xan.2011@yandex.ru
+<a href="https://www.linkedin.com/in/khambala-tagiev-88119a21b/" target="_blank" rel = "noopener"><img src="./svg/Linkedin.svg" width="60px" height="60px"></a>
+<a href="https://t.me/@Khan_Tagiev" target="_blank" rel = "noopener"><img src="./svg/telegram.svg" width="60px" height="60px"></a>
+<a href="mailto:xan.2011@yandex.ru" target="_blank" rel = "noopener"><img src="./svg/gmail.svg" width="60px" height="60px"></a>
 
 ### Моя Статистика:
 
