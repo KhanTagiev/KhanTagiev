@@ -2,12 +2,14 @@
 
 # **Обо мне:**
 
-* Мой стаж Frontend разработчика 1 год. Закончил курс [Веб разработчика](https://practicum.yandex.ru/web/) в Я.Практикуме. 
+* Мой стаж Frontend разработчика 1 год. 
+* Есть комерческий опыт. Разработка [Frontend](https://github.com/KhanTagiev/spectre-frontend) и [Backend](https://github.com/KhanTagiev/spectre-api) частей проекта Spectre.
+* Я закончил курс [Веб разработчика](https://practicum.yandex.ru/web/) в Я.Практикуме. Мой дипломный проект [Movies Explorer](https://movies.khan.nomoredomains.monster/), код: [Frontend](https://github.com/KhanTagiev/movies-explorer-frontend) и [Backend](https://github.com/KhanTagiev/movies-explorer-api)
 * Я ответсвен и мотивирован, легко обучаюсь и готов работать Frontend разработчиком прямо сейчас.
 * Я ❤️  програмирование потому что, мне интересно создавать новые интересные и дружелюбные интерфейсы.
 * На данный момент я ищу работу в качестве Frontend разработчика.
 * Я с радостью поделюсь своим опытом и готов учиться у страших коллег.
-* Люблю фильмы по комиксам DC и Marvel.
+* Люблю решать задачки на [CodeWars](https://www.codewars.com/users/KhanTagiev) и фильмы по комиксам DC, Marvel. 
 
 ## Мой стэк технологий:  
 
