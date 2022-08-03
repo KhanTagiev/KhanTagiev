@@ -2,12 +2,11 @@
 
 # **Обо мне:**
 
-* Мой стаж Frontend разработчика 1 год. 
-* Есть комерческий опыт. Разработка [Frontend](https://github.com/KhanTagiev/spectre-frontend) и [Backend](https://github.com/KhanTagiev/spectre-api) частей проекта Spectre.
-* Я закончил курс [Веб разработчика](https://practicum.yandex.ru/web/) в Я.Практикуме. Мой дипломный проект [Movies Explorer](https://movies.khan.nomoredomains.monster/), код: [Frontend](https://github.com/KhanTagiev/movies-explorer-frontend) и [Backend](https://github.com/KhanTagiev/movies-explorer-api)
-* Я ответсвен и мотивирован, легко обучаюсь и готов работать Frontend разработчиком прямо сейчас.
+* Мой стаж Frontend разработчика 2 года. 
+* Опыт в разработке React приложений с использованием Typescript, Redux, Redux Toolkit, WebSockets.
+* Опыт в Рразработке микросервисов на NodeJS c использованием Typescript, Express/Koa, WebSockets, RabbitMQ, TypeORM, GraphQL, Docker и SQL/NoSQL БД. Документирование API в Swagger.
+* Я закончил курс [Веб разработчика](https://practicum.yandex.ru/web/) в Я.Практикуме. 
 * Я ❤️  програмирование потому что, мне интересно создавать новые интересные и дружелюбные интерфейсы.
-* На данный момент я ищу работу в качестве Frontend разработчика.
 * Я с радостью поделюсь своим опытом и готов учиться у страших коллег.
 * Люблю решать задачки на [CodeWars](https://www.codewars.com/users/KhanTagiev) и фильмы по комиксам DC, Marvel. 
 
@@ -16,6 +15,7 @@
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="50"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="50" ></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" height="50"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TS" height="50"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="50"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="50"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="50"></code>
